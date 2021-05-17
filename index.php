@@ -327,7 +327,7 @@
                   </center>
                   <a
                     target='blank'
-                    href='docs/BarnabasTeam.pdf'
+                    href='docs/Sex-in-its-lights-and-shades.pdf'
                     class="btn btn-primary button show-modal">
                     Open
                   </a>
