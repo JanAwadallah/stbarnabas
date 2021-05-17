@@ -327,14 +327,14 @@
                   </center>
                   <a
                     target='blank'
-                    href='docs/SehatAlketabAlmokades.pdf'
+                    href='docs/Sex-in-it-lights-and-shades.pdf'
                     class="btn btn-primary button show-modal">
                     Open
                   </a>
                   <a
                     id="fileDownload"
                     class="btn"
-                    href="docs/Sex-in-its-lights-and-shades.pdf"
+                    href="docs/Sex-in-it-lights-and-shades.pdf"
                     download="Sex-in-its-lights-and-shades.pdf"
                     ><i class="fas fa-download"> Download</i></a
                   >
