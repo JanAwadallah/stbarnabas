@@ -87,11 +87,6 @@
                       Marcos Yassa
                     </p>
                   </center>
-                  <!--<button-->
-                  <!--  onclick="LoadPDF('BarnabasTeam.pdf')"-->
-                  <!--  class="btn btn-primary button show-modal">-->
-                  <!--  Open-->
-                  <!--</button>-->
                   <a
                     target='blank'
                     href='docs/BarnabasTeam.pdf'
@@ -314,7 +309,74 @@
           role="tabpanel"
           aria-labelledby="profile-tab"
         >
-          <center><h1>Coming Soon</h1></center>
+        
+          <div class="flexbox-container">
+            <div class="flexbox-item flexbox-item1">
+              <div class="card">
+                <img
+                  src="images/Sex-in-its-lights-and-shades.png"
+                  class="card-img-top"
+                  alt="Book"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">الجنس في أنواره و ظلاله</h5>
+                  <center>
+                    <p class="card-text">
+                      الجنس في أنواره و ظلاله, رؤية إنسانية و إيمانية للكاتب كوستي بندلي
+                    </p>
+                  </center>
+                  <a
+                    target='blank'
+                    href='docs/BarnabasTeam.pdf'
+                    class="btn btn-primary button show-modal">
+                    Open
+                  </a>
+                  <a
+                    id="fileDownload"
+                    class="btn"
+                    href="docs/Sex-in-its-lights-and-shades.pdf"
+                    download="Sex-in-its-lights-and-shades.pdf"
+                    ><i class="fas fa-download"> Download</i></a
+                  >
+                </div>
+              </div>
+            </div>
+
+            <div class="flexbox-item flexbox-item2">
+              <div class="card">
+                <img
+                  src="images/ChristInMarriageAndtheFamily.png"
+                  class="card-img-top"
+                  alt="Book"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">المسيح في الزواج و الاسرة</h5>
+                  <center>
+                    <p class="card-text">
+                      كتاب المسيح في الزواج و الاسرة <br>تأليف أ د نبيل باقي سليمان استاذ بكليات الطب واستشاري الزواج و الاسرة<br> تقديم الانبا باخوميوس
+                    </p>
+                  </center>
+                  <a
+                  target='blank'
+                    href='docs/ChristInMarriageAndtheFamily.pdf'
+                    class="btn btn-primary button show-modal"
+                  >
+                    Open
+                  </a>
+                  <a
+                    id="fileDownload"
+                    class="btn"
+                    href="docs/ChristInMarriageAndtheFamily.pdf"
+                    download="ChristInMarriageAndtheFamily.pdf"
+                    ><i class="fas fa-download"> Download</i></a
+                  >
+                </div>
+              </div>
+            </div>
+
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
